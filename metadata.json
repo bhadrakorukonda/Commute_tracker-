@@ -1,0 +1,6 @@
+{
+  "name": "Kinetic Commute Tracker",
+  "description": "High-telemetry daily commute tracker with live GPS radar, multi-modal trip stats, carbon offset metrics, and intelligent transit optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
